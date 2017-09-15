@@ -1,5 +1,6 @@
-Useful commands
+## Useful commands
 
+```bash
 # bash commands
 $ docker-compose exec php bash
 
